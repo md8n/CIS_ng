@@ -45,3 +45,13 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/CIS_ng/bin
+/CIS_ng/obj/Debug
+*.user
+/CIS_ng/Web.Release.config
+/CIS_ng/Web.Debug.config
+/CIS_ng.Tests/bin/Debug
+/CIS_ng.Tests/obj/Debug
+/CIS_ng.Tests/App.config
+/packages
+/.vs/CIS_ng/v14/.suo
