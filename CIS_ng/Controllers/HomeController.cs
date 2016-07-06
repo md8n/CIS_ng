@@ -15,5 +15,17 @@ namespace CIS_ng.Controllers
 
       return View();
     }
+
+    [AllowAnonymous]
+    public ActionResult Contact()
+    {
+      if (User?.Identity == null)
+      {
+
+      }
+
+      return View();
+    }
+
   }
 }
